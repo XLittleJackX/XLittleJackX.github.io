@@ -97,7 +97,7 @@
 						onPopupClose: function() { $body.removeClass('is-covered'); },
 						onPopupOpen: function() { $body.addClass('is-covered'); },
 						baseZIndex: 10001,
-						useBodyOverflow: false,
+						useBodyOverflow: true,
 						overlayColor: '#222226',
 						overlayOpacity: 0.75,
 						popupLoaderText: '',
