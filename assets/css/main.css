@@ -77,7 +77,6 @@
 
 	body {
 		background: #202024;
-		background-image: "images/banner.png";
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1168,7 +1167,7 @@
 		justify-content: center;
 		padding: 8em 4em 6em 4em;
 		min-height: 70vh;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/banner.png");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
