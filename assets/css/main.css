@@ -77,6 +77,7 @@
 
 	body {
 		background: #202024;
+		background-image: "images/banner.png";
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
