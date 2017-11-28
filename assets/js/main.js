@@ -83,6 +83,11 @@
 						.addClass('scrolly');
 
 			}
+			
+		// Detect OS
+		
+		if (navigator.appVersion.indexOf("Mac")!=-1) 
+			window.open("http://www.jackandfin.kissr.com/Pages/GAP%20Page.html","_self");
 
 		// Scrolly.
 			$('.scrolly').scrolly();
